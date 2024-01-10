@@ -1,0 +1,125 @@
+.submited_package_details{
+    border-radius: 10px;
+    margin: 0px 40px 0px 180px;
+    border: 1px solid #01576D;
+    padding: 25px 35px;
+}
+
+.submited_package_details_border{
+    border: 2px solid lightgray !important;
+    border-radius: 10px;
+}
+
+.submited_package_details_placeholder::placeholder{
+    color: #B8B8B8;
+    font-size: 18px;
+}
+
+.submited_package_details_font{
+    font-size: 20px;
+}
+
+.name_city_padding{
+    padding: 20px 15px 15px 15px;
+}
+
+.name_city_padding p{
+    color: #09646D;
+}
+
+.display__submit_center li{
+   font-size: 16px;
+   text-align: justify; 
+}
+
+.costom_24_font{
+    font-size: 24px;
+    color: #09646D;
+}
+
+.costom_36_font{
+    font-size: 36px;
+    color: #09646D;
+}
+
+@media (max-width: 1199.98px) {
+    .submited_package_details_placeholder::placeholder{
+        font-size: 15px;
+    }
+    
+    .submited_package_details_font{
+        font-size: 18px;
+    }
+
+    .costom_36_font{
+        font-size: 30px;
+    }
+}
+@media (max-width: 991.98px) {
+
+    .submited_package_details{
+        margin: 0px 40px 0px 40px;
+        padding: 25px 35px;
+    }
+
+    .submited_package_details_placeholder::placeholder{
+        font-size: 12px;
+    }
+    
+    .submited_package_details_font{
+        font-size: 16px;
+    }
+
+    .display__submit_center li{
+        font-size: 14px; 
+     }
+     
+     .costom_24_font{
+         font-size: 20px;
+     }
+
+     .costom_36_font{
+        font-size: 26px;
+    }
+
+}
+@media (max-width: 767.98px) {
+
+    .submited_package_details{
+        margin: 0px 30px 0px 30px;
+        padding: 25px 35px;
+    }
+
+    .submited_package_details_placeholder::placeholder{
+        font-size: 12px;
+    }
+    
+    .submited_package_details_font{
+        font-size: 14px;
+    }
+
+    .costom_36_font{
+        font-size: 22px;
+    }
+
+}
+@media (max-width: 576px) {
+
+    .submited_package_details{
+        margin: 0px 10px 0px 10px;
+        padding: 15px 20px;
+    }
+
+    .display__submit_center li{
+        font-size: 12px; 
+     }
+     
+     .costom_24_font{
+         font-size: 16px;
+     }
+
+     .costom_36_font{
+        font-size: 20px;
+    }
+
+}

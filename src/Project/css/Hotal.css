@@ -1,0 +1,480 @@
+/*------------- image section ------------*/
+
+.Overview a {
+  text-decoration: none;
+  color: #393939;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.rupees span {
+  font-size: 12px;
+  line-height: 18px;
+  color: #929292;
+}
+
+.rupees h4 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #044711;
+}
+
+/*-------- center ---------*/
+
+/*------- rose-valley --------*/
+
+.rose-valley {
+  border: 2px solid #d6d4d4;
+  padding: 15px 90px 10px 30px;
+  border-radius: 10px;
+}
+
+.rose-valley h4 {
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.rose-valley i {
+  color: #ffd600;
+}
+
+.rose-valley i:last-child {
+  color: #dddddd;
+}
+
+.rose-valley p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.border-bot {
+  border-bottom: 1px solid #d4d4d4;
+}
+
+.rose-paragraph p {
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  color: #393939;
+  text-align: justify;
+}
+
+/*------- highlights --------*/
+
+.highlights {
+  border: 2px solid #d6d4d4;
+  padding: 15px 90px 10px 30px;
+  border-radius: 10px;
+}
+
+.highlights p {
+  font-weight: 400;
+  font-size: 12px;
+  color: #393939;
+  margin-bottom: 0;
+}
+
+/*------- delux-room --------*/
+
+.delux-room {
+  border: 2px solid #d6d4d4;
+  padding: 35px 38px 30px 30px;
+  border-radius: 10px;
+}
+
+.facilities {
+  padding: 4px 10px;
+  text-align: left;
+}
+
+.facilities ul li:first-child {
+  list-style: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: #393939;
+  margin-left: -15px;
+}
+
+.facilities ul li {
+  font-size: 13px;
+}
+
+.facilities h2 {
+  font-weight: 700;
+  font-size: 29.6234px;
+  line-height: 44px;
+  color: #044711;
+  margin-left: 1rem;
+}
+
+.facilities h2 span {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #929292;
+}
+
+.book-now {
+  margin-left: 1rem;
+}
+
+.book-now a {
+  text-decoration: none;
+  background: #09646d;
+  border-radius: 10px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #ffffff;
+  padding: 12px 40px;
+}
+
+
+/*------- amenities --------*/
+
+.amenities {
+  border: 2px solid #d6d4d4;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+
+.amenities h5 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.amenities h6 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.amenities ul li {
+  font-size: 14px;
+  color: #817f7f;
+}
+
+.sticky {
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Adjust as needed */
+    padding: 4px 0px;
+}
+
+.hshshs{
+    border: none;
+}
+
+
+
+/*--------- availibility --------*/
+
+.availibility {
+  border: 2px solid #d6d4d4;
+  padding: 20px 23px;
+  border-radius: 10px;
+}
+
+.availibility input {
+  width: 100%;
+  height: 35px;
+  border-radius: 10px;
+  border: 2px solid #d6d4d4;
+}
+
+.availibility h4 {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.availibility label {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.availibility select {
+  border: 2px solid #d6d4d4;
+  border-radius: 15px;
+}
+
+.available-search {
+  display: flex;
+  justify-content: center;
+}
+
+.available-search a {
+  padding: 10px 70px;
+  text-decoration: none;
+  background: #09646d;
+  border-radius: 10px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+/*------------ very good ----------*/
+
+.very-good {
+  border: 2px solid #d6d4d4;
+  padding: 20px 23px;
+  border-radius: 10px;
+}
+
+.very-good h3 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.very-good p {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #56a4ff;
+}
+
+.gautam {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 10px 15px;
+}
+
+.gautam p {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #393939;
+}
+
+.gautam span {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+/*---------- footer ---------*/
+
+.footer {
+  border: 1px solid #b8b8b8;
+  border-radius: 15px;
+}
+
+.foot {
+  padding: 25px 40px;
+}
+
+.footer-head h5 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.footer-head h6 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.footer-head p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #393939;
+}
+
+.box {
+  border: 1px solid #b8b8b8;
+  border-radius: 10px;
+  padding: 20px 15px;
+}
+
+.box div:first-child {
+  border-bottom: 2px solid #929292;
+}
+
+.box h5 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.box h6 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #393939;
+}
+
+.box p {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #929292;
+}
+
+.others {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.hotel-rooms-main-image {
+  width: 300px;
+  height: 150px;
+}
+
+.hotel-rooms-sb-images {
+  width: 147px;
+  height: 150px;
+}
+
+.images-after {
+  position: relative;
+}
+
+.images-after::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+}
+
+/*---------- media query ------------*/
+
+@media (max-width: 1399.98px) {
+}
+
+@media (max-width: 1199.98px) {
+  .rose-valley {
+    padding: 15px 50px 10px 30px;
+  }
+
+  .highlights {
+    padding: 15px 50px 10px 30px;
+  }
+
+  .delux-room {
+    padding: 15px 50px 10px 30px;
+  }
+
+  .facilities ul li:first-child {
+    list-style: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: #393939;
+    margin-left: -15px;
+  }
+
+  .facilities ul li {
+    font-size: 13px;
+  }
+
+  .facilities h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 44px;
+  }
+
+  .book-now a {
+    font-weight: 400;
+    font-size: 10px;
+    padding: 8px 18px;
+  }
+
+  .book-now a:last-child {
+    padding: 8px 20px;
+    margin-left: 1px;
+  }
+
+  .foot {
+    padding: 12px 20px;
+  }
+}
+
+@media (max-width: 991.98px) {
+}
+
+@media (max-width: 767.98px) {
+  .facilities {
+    padding: 4px 35px;
+    text-align: left;
+  }
+
+  .amenities {
+    padding: 10px 10px;
+  }
+
+  .foot {
+    padding: 12px 20px;
+  }
+
+  .foot-center {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .rose-valley {
+    padding: 15px 30px 10px 30px;
+  }
+
+  .rose-valley h4 {
+    font-weight: 500;
+    font-size: 20px;
+  }
+
+  .rose-valley p {
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .rose-paragraph p {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 21px;
+  }
+
+  .highlights p {
+    font-weight: 400;
+    font-size: 10px;
+  }
+
+  .highlights {
+    padding: 10px 10px 6px 10px;
+  }
+
+  .delux-room {
+    padding: 10px 10px 6px 10px;
+  }
+
+  .facilities {
+    padding: 4px 8px;
+  }
+
+  .available-search a {
+    padding: 10px 100px;
+    font-size: 14px;
+  }
+
+  iframe {
+    height: 100%;
+  }
+
+  .foot {
+    padding: 6px 6px;
+  }
+
+  .foot-center {
+    display: flex;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,107 @@
+.vendor_signup {
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+.sign_up_form {
+  width: 70%;
+  margin: auto;
+}
+
+.sign_up_header {
+  margin-bottom: 40px;
+}
+
+.sign_up_header h3 {
+  color: #09646d;
+  font-size: 30px;
+}
+
+.sign_up_header p {
+  color: #09646d;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.sing_up_button {
+  padding-top: 40px;
+}
+
+.sing_up_button button {
+  background-color: #09646d;
+  border-radius: 10px;
+  height: 50px;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.vendor_signup input,
+.vendor_signup select {
+  width: 100%;
+  border-radius: 5px;
+  padding: 5px 10px;
+  border: none;
+  border: 1px solid black;
+}
+
+.vendor_signup input:focus,
+.vendor_signup select:focus {
+  outline: none;
+}
+
+.sing_up_button button:hover,
+.sing_up_button button:active,
+.sing_up_button button:focus {
+  background-color: #09646d;
+  border: none;
+  box-shadow: none;
+}
+
+.form-control,
+.form-select {
+  border: 1px solid black !important;
+}
+
+.mama {
+  margin-right: 50px !important;
+  margin-left: 170px !important;
+}
+
+@media (max-width: 1199.98px) {
+}
+
+@media (max-width: 991.98px) {
+  .sign_up_header {
+    margin-bottom: 20px;
+  }
+  .sign_up_form {
+    width: 80%;
+    margin: auto;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .sign_up_form {
+    width: 70%;
+    margin: auto;
+  }
+  .sign_up_header h3 {
+    font-size: 25px;
+  }
+  .sign_up_header p {
+    font-size: 18px;
+  }
+  .sing_up_button {
+    padding-top: 35px;
+  }
+  .sing_up_button button {
+    font-size: 18px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 575.98px) {
+    .sing_up_button {
+        padding-top: 35px;
+      }
+}
